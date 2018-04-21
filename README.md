@@ -1,2 +1,0 @@
-# GaneshKandu.github.io
-me
