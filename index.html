@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>README Viewer</title>
+<title>Markdown Router</title>
 
 <link rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/highlight.js/styles/github.min.css">
@@ -23,7 +23,7 @@ code { background: #f6f8fa; padding: 2px 4px; border-radius: 4px; }
 
 <body>
 
-<div id="content">Loading README.md…</div>
+<div id="content">Loading…</div>
 
 <script src="https://cdn.jsdelivr.net/npm/markdown-it@13/dist/markdown-it.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/highlight.js@11/lib/common.min.js"></script>
@@ -46,20 +46,42 @@ const md = markdownit({
   }
 });
 
-fetch('./README.md')
-  .then(res => {
-    if (!res.ok) throw new Error('README.md not found');
-    return res.text();
-  })
-  .then(text => {
-    document.getElementById('content').innerHTML =
-      DOMPurify.sanitize(md.render(text));
-  })
-  .catch(err => {
-    document.getElementById('content').innerHTML =
-      '<h2>Error</h2><p>Unable to load README.md</p>';
-    console.error(err);
-  });
+function resolveMarkdownFromHash() {
+  const hash = location.hash.replace(/^#/, '');
+
+  // 1️⃣ No hash → README.md
+  if (!hash) return 'README.md';
+
+  // 2️⃣ #project-a.exp → project-a/exp.md
+  if (hash.includes('.')) {
+    const [folder, file] = hash.split('.', 2);
+    return `${folder}/${file}.md`;
+  }
+
+  // 3️⃣ #project-a → project-a.md
+  return `${hash}.md`;
+}
+
+function loadMarkdown() {
+  const mdPath = resolveMarkdownFromHash();
+
+  fetch(mdPath)
+    .then(res => {
+      if (!res.ok) throw new Error('Not found');
+      return res.text();
+    })
+    .then(text => {
+      document.getElementById('content').innerHTML =
+        DOMPurify.sanitize(md.render(text));
+    })
+    .catch(() => {
+      document.getElementById('content').innerHTML =
+        `<h2>404</h2><p>${mdPath} not found</p>`;
+    });
+}
+
+window.addEventListener('hashchange', loadMarkdown);
+loadMarkdown();
 </script>
 
 </body>
