@@ -1,69 +1,54 @@
-# GANESH RAMNIWAS KANDU
+# Ganesh Ramniwas Kandu
 
-**Software Developer/Engineer**
+I am **Ganesh Ramniwas Kandu**, a software practitioner with long-term experience in designing, developing, and maintaining backend systems and web-based software. My work focuses on practical software engineering, system optimization, and reliable application design.
 
-**Contact**
-- 📍 Delhi/Mumbai India  
-- 📧 kanduganesh@gmail.com  
-- 📞 8828452934 / 8828452935  
-- 📅 Date of Birth: 12/09/1991
+## Background
 
-## Objective
-My objective is to obtain a position in a professional office environment where my skills are valued and can benefit the organization. Ideally, I wish to have a focus in marketing for a growing organization preferably dealing in commercial real estate and/or land acquisitions.
+I was born on **12 September 1991** and am based in **Thane West, Maharashtra, India**. I have been working in software development for several years, primarily on backend technologies, infrastructure-aware applications, and data-driven systems.
 
-## Work Experience
+## Professional Experience
 
-### **Sr. Software Developer**  
-**Softaculous Pvt. Ltd** (05-2015 – 04-2023)  
-As a Software Developer at Softaculous, I played a pivotal role in enhancing the functionality of our auto installer. I integrated multiple FOSS scripts into Softaculous web panels (cPanel, Plesk, DirectAdmin, Webuzo), improved compatibility, optimized source code for PHP/Nginx/Apache/PostgreSQL, and worked closely with support and development teams. :contentReference[oaicite:1]{index=1}
+### [National E-Governance Division (NEGD), Department of Electronics and Information Technology](https://negd.gov.in/) (9/2025 - present)
+I am currently working with the **National E-Governance Division (NEGD), Department of Electronics and Information Technology**, contributing to the **DigiLocker project**. My work focuses on backend development, system integration, and application maintenance using a range of technologies including **Python (FastAPI, Flask), PHP (Laravel, CodeIgniter), and MongoDB**.
+My responsibilities include designing and implementing APIs, maintaining data workflows, ensuring secure document handling, and integrating services across multiple government platforms. I work on optimizing backend processes, developing reliable and scalable systems, and supporting the project’s mission to provide digital access to official documents for citizens.
 
----
+### [Indicosmic Infotech Ltd](https://www.indicosmic.com/) (04/2024 - 8/2025)
+I worked with IndicOSMIC on backend development projects using Node.js (Express), PHP, Laravel, and CodeIgniter, contributing to insurance-based systems and EV OEM–dealer order workflows, including engineer assignment, challan generation, and related processes.
 
-### **Sr. Software Engineer**  
-**Samco Securities** (04-2023 – Present)  
-At Samco Securities, I design and develop robust software solutions to support mutual fund operations. My responsibilities include coding, debugging, collaborating across teams, database tasks (MySQL, MongoDB), shell scripting, and creating cron jobs for data integrity. :contentReference[oaicite:2]{index=2}
+### [Samco Securities](https://www.samco.in/) (4/2023 – 4/2024)
+I work on developing and maintaining internal software systems supporting mutual fund operations. My work includes backend development, database management, automation through shell scripting and cron jobs, and collaborating with cross-functional teams to ensure data integrity and system reliability.
 
-## Skills
+### [Softaculous Pvt. Ltd](https://www.softaculous.com/) (5/2015 – 4/2023)
+I worked as a Senior Software Developer, where I contributed to the development and maintenance of the Softaculous auto-installer ecosystem. My responsibilities included integrating open-source applications into multiple web hosting control panels, improving compatibility across PHP versions, web servers, and databases, and optimizing source code for stability and performance.
 
-**Languages & Tools**
-- PHP  
-- MySQL/MariaDB  
-- Laravel  
-- CSS, HTML, JavaScript, jQuery  
-- Git, SVN  
-- Shell scripting  
-- Bootstrap  
-- WAMP, LAMP  
-- Linux (CentOS, Ubuntu)
+I worked extensively with Apache, Nginx, PHP, MySQL, PostgreSQL, and Linux environments, and collaborated closely with support and development teams to resolve real-world deployment issues.
 
-## Languages
-- Hindi ★★★★★  
-- Marathi ★★★★★  
-- English ★★★★★
+## Technical Skills
+
+- Programming: PHP, NodeJS, Python, Java
+- Frameworks: Laravel, CodeIgnitor, Express.js, Flask, FastAPI
+- Databases: MySQL, MariaDB, MongoDB, Percona, SQLite 
+- Web: HTML, CSS, JavaScript, jQuery, Bootstrap  
+- Tools: Git, SVN
+- Systems: Linux (Ubuntu, CentOS), Apache, Nginx  
+- Scripting: Shell scripting  
 
 ## Interests
-- Defence technologies  
-- Radars  
-- Embedded systems  
-- Writing code for security  
-- Topology  
-- Mathematics
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/ganeshkandu  
-- GitHub: https://github.com/GaneshKandu
-
-## Projects
-
-### **KChat**
-KChat is a chat application where “K” is my surname initial. It is licensed under the GNU Public License and is open-source on GitHub.
-
-🔗 https://github.com/php-kchat/kchat
+My interests include software engineering practices, automation, security-oriented coding, embedded systems, radar technologies, topology, and mathematics. I am particularly interested in applying computational thinking to structured problem solving.
 
 ## Education
-**Bachelor of Science in Information Technology**  
-University of Mumbai — Grade B / CGPA: 5.7 (05-2011 – 06-2015)
+
+I hold a **Bachelor of Science in Information Technology** from the **University of Mumbai** (2011–2015).
 
 ## Publication
-- *Quadratic equations without trigonometry* — a paper on geometric equations of Conics and Quadric Surfaces without using trigonometry.  
-  🔗 https://paper.researchbib.com/view/paper/291932
+
+- *Quadratic equations without trigonometry*  
+  A paper exploring geometric equations of conics and quadric surfaces without the use of trigonometric methods.  
+  [Link](https://paper.researchbib.com/view/paper/291932)
+
+## Languages
+
+- Hindi (5/5) 
+- Marathi (3/5)
+- English (3/5)
