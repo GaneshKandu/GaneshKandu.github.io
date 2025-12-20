@@ -2,10 +2,12 @@
 
 I am **Ganesh Ramniwas Kandu**, a software practitioner with long-term experience in designing, developing, and maintaining backend systems and web-based software. My work focuses on practical software engineering, system optimization, and reliable application design.
 
+---
 ## Background
 
-I was born on **12 September 1991** and am based in **Thane West, Maharashtra, India**. I have been working in software development for several years, primarily on backend technologies, infrastructure-aware applications, and data-driven systems.
+I was born on **12 September 1991** and am based in **Mumbai/Delhi, India**. I have been working in software development for several years, primarily on backend technologies, infrastructure-aware applications, and data-driven systems.
 
+---
 ## Professional Experience
 
 ### [National E-Governance Division (NEGD), Department of Electronics and Information Technology](https://negd.gov.in/) (9/2025 - present)
@@ -21,8 +23,9 @@ I work on developing and maintaining internal software systems supporting mutual
 ### [Softaculous Pvt. Ltd](https://www.softaculous.com/) (5/2015 – 4/2023)
 I worked as a Senior Software Developer, where I contributed to the development and maintenance of the Softaculous auto-installer ecosystem. My responsibilities included integrating open-source applications into multiple web hosting control panels, improving compatibility across PHP versions, web servers, and databases, and optimizing source code for stability and performance.
 
-I worked extensively with Apache, Nginx, PHP, MySQL, PostgreSQL, and Linux environments, and collaborated closely with support and development teams to resolve real-world deployment issues.
+I worked extensively with Apache, Nginx, PHP, MySQL, Percona DB, and Linux environments, and collaborated closely with support and development teams to resolve real-world deployment issues.
 
+---
 ## Technical Skills
 
 - Programming: PHP, NodeJS, Python, Java
@@ -33,20 +36,32 @@ I worked extensively with Apache, Nginx, PHP, MySQL, PostgreSQL, and Linux envir
 - Systems: Linux (Ubuntu, CentOS), Apache, Nginx  
 - Scripting: Shell scripting  
 
+---
 ## Interests
 
-My interests include software engineering practices, automation, security-oriented coding, embedded systems, radar technologies, topology, and mathematics. I am particularly interested in applying computational thinking to structured problem solving.
+My interests include software engineering practices, Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), Automation, Security-Oriented coding, Embedded Systems, Defence Technologies, Topology, and Mathematics. I am particularly interested in applying computational thinking to structured problem solving.
 
+---
 ## Education
 
 I hold a **Bachelor of Science in Information Technology** from the **University of Mumbai** (2011–2015).
 
+---
 ## Publication
 
-- *Quadratic equations without trigonometry*  
-  A paper exploring geometric equations of conics and quadric surfaces without the use of trigonometric methods.  
-  [Link](https://paper.researchbib.com/view/paper/291932)
+### Quadratic equations without trigonometry
+*A paper exploring geometric equations of conics and quadric surfaces without the use of trigonometric methods.*
 
+[Link](https://paper.researchbib.com/view/paper/291932), [See More](#publication-1)
+
+**Title:** Rotation of Conics and Quadric Surfaces only using Focal Points and Distance without Using Trigonometry  
+**Journal:** International Journal of Science and Research (IJSR)  
+**Volume & Issue:** 9(9), September 2020  
+**Pages:** 1507–1514  
+**DOI:** [https://dx.doi.org/10.21275/SR20927184540](https://dx.doi.org/10.21275/SR20927184540)  
+**URL:** [https://www.ijsr.net/getabstract.php?paperid=SR20927184540](https://www.ijsr.net/getabstract.php?paperid=SR20927184540)
+
+---
 ## Languages
 
 - Hindi (5/5) 
