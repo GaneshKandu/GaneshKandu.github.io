@@ -75,13 +75,53 @@ code {
   cursor: pointer;
   font-size: 14px;
 }
+/*
+Loader
+*/
+
+.loader{
+    display: block;
+    position: relative;
+    height: 32px;
+    width: 140px;
+    border: 3px solid #fff;
+    border-radius: 20px;
+    box-sizing: border-box;
+    animation: balancing 2s linear infinite alternate;
+    transform-origin: center center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+  }
+  .loader:before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 52px;
+    height: 26px;
+    border-radius: 20px;
+    background: #FF3D00;
+    animation: ballbns 2s linear infinite alternate;
+  }
+  @keyframes ballbns {
+    0% {  left: 0; transform: translateX(0%); }
+    100% {  left: 100%; transform: translateX(-100%); }
+  }
+  @keyframes balancing {
+    0% {  transform: rotate(-25deg); }
+    50% {  transform: rotate(0deg); }
+    100% {  transform: rotate(25deg); }
+  }
+
 </style>
+
 </head>
 
 <body>
 
 <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
-<div id="content">Loading…</div>
+<div id="content"><span class="loader"></span></div>
 
 <!-- =====================
      LIBRARIES
@@ -137,8 +177,7 @@ function loadMarkdown() {
       return res.text();
     })
     .then(text => {
-      document.getElementById('content').innerHTML =
-        DOMPurify.sanitize(md.render(text));
+      document.getElementById('content').innerHTML = DOMPurify.sanitize(md.render(text));
 
       // KaTeX render
       if (window.renderMathInElement) {
