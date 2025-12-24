@@ -55,7 +55,9 @@ I hold a **Bachelor of Science in Information Technology** from the **University
 [Link](https://paper.researchbib.com/view/paper/291932), [See More](#publication-1)
 
 **Title:** Rotation of Conics and Quadric Surfaces only using Focal Points and Distance without Using Trigonometry  
+**Author:** Ganesh R. Kandu  
 **Journal:** International Journal of Science and Research (IJSR)  
+**Part of ISSN**: [2319-7064](https://portal.issn.org/resource/ISSN/2319-7064)
 **Volume & Issue:** 9(9), September 2020  
 **Pages:** 1507–1514  
 **DOI:** [https://dx.doi.org/10.21275/SR20927184540](https://dx.doi.org/10.21275/SR20927184540)  
