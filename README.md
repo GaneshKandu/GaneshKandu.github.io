@@ -10,17 +10,21 @@ I was born on **12 September 1991** and am based in **Mumbai/Delhi, India**. I h
 ---
 ## Professional Experience
 
-### [National E-Governance Division (NEGD), Department of Electronics and Information Technology](https://negd.gov.in/) (9/2025 - present)
+### [National E-Governance Division (NEGD), Department of Electronics and Information Technology](https://negd.gov.in/) **(16/09/2025 - present)**
+
 I am currently working with the **National E-Governance Division (NEGD), Department of Electronics and Information Technology**, contributing to the **DigiLocker project**. My work focuses on backend development, system integration, and application maintenance using a range of technologies including **Python (FastAPI, Flask), PHP (Laravel, CodeIgniter), and MongoDB**.
 My responsibilities include designing and implementing APIs, maintaining data workflows, ensuring secure document handling, and integrating services across multiple government platforms. I work on optimizing backend processes, developing reliable and scalable systems, and supporting the project’s mission to provide digital access to official documents for citizens.
 
-### [Indicosmic Infotech Ltd](https://www.indicosmic.com/) (04/2024 - 8/2025)
+### [Indicosmic Infotech Ltd](https://www.indicosmic.com/) **(26/03/2024 - 31/08/2025)**
+
 I worked with IndicOSMIC on backend development projects using Node.js (Express), PHP, Laravel, and CodeIgniter, contributing to insurance-based systems and EV OEM–dealer order workflows, including engineer assignment, challan generation, and related processes.
 
-### [Samco Securities](https://www.samco.in/) (4/2023 – 4/2024)
+### [Samco Securities](https://www.samco.in/) **(10/04/2023 – 22/03/2024)**
+
 I work on developing and maintaining internal software systems supporting mutual fund operations. My work includes backend development, database management, automation through shell scripting and cron jobs, and collaborating with cross-functional teams to ensure data integrity and system reliability.
 
-### [Softaculous Pvt. Ltd](https://www.softaculous.com/) (5/2015 – 4/2023)
+### [Softaculous Pvt. Ltd](https://www.softaculous.com/) **(05/05/2015 – 08/04/2023)**
+
 I worked as a Senior Software Developer, where I contributed to the development and maintenance of the Softaculous auto-installer ecosystem. My responsibilities included integrating open-source applications into multiple web hosting control panels, improving compatibility across PHP versions, web servers, and databases, and optimizing source code for stability and performance.
 
 I worked extensively with Apache, Nginx, PHP, MySQL, Percona DB, and Linux environments, and collaborated closely with support and development teams to resolve real-world deployment issues.
