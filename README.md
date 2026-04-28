@@ -44,8 +44,8 @@ I worked as a Electronic Engineer  .
 - Databases: MySQL, MariaDB, MongoDB, Percona, SQLite 
 - Web: HTML, CSS, JavaScript, jQuery, Bootstrap  
 - Tools: Git, SVN
-- Systems: Linux (Ubuntu, CentOS), Apache, Nginx  
-- Scripting: Shell scripting  
+- Systems: Linux (Ubuntu, CentOS), Apache, Nginx, Windows
+- Scripting: Shell scripting, CAD scripting
 
 ---
 ## Interests
