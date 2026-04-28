@@ -29,6 +29,13 @@ I worked as a Senior Software Developer, where I contributed to the development 
 
 I worked extensively with Apache, Nginx, PHP, MySQL, Percona DB, and Linux environments, and collaborated closely with support and development teams to resolve real-world deployment issues.
 
+### [Senergy Intellution Pvt. Ltd.](https://senergy.net.in) **(15/09/2014 – 17/12/2014)**
+
+I worked as a Electronic Engineer  .
+
+- Worked on STM32-based embedded systems  
+- Developed software using C programming language
+
 ---
 ## Technical Skills
 
